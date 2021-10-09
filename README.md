@@ -7,7 +7,7 @@
 </div>
   
   
-<div style="display: inline_block"><br>
+<div align="center"><br>
   <img align="center" alt="danielrrbhmg-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="danielrrbhmg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="danielrrbhmg-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
