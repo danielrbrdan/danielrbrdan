@@ -27,7 +27,9 @@
   <img align="center" alt="danielrrbhmg-gitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="danielrrbhmg-gitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="danielrrbhmg-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="danielrrbhmg-docker" height="30" width="40" src="https://github.com/gilbarbara/logos/blob/master/logos/kubernetes.svg">
   <img align="center" alt="danielrrbhmg-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="danielrrbhmg-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg">
 
 
   
