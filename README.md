@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imed-danielramos&theme=highcontrast" alt="imed-danielramos" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielrrbhmg&theme=highcontrast" alt="danielramos" />
   </div>
   
 <div align="center">
