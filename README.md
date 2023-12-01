@@ -1,4 +1,4 @@
-## Olá 👋 meu nome é Daniel Ramos Ribeiro, engenheiro da computação e amante da tecnologia❗
+## Olá 👋 meu nome é Daniel Ramos, engenheiro da computação e amante da tecnologia❗
 
 
 <div align="center">
