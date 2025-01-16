@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielrbrdan&theme=highcontrast" alt="danielramos" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=danielrbrdan&theme=highcontrast&locale=pt_BR" alt="danielramos" />
   </div>
   
 <div align="center">
